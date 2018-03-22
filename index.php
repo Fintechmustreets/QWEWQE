@@ -21,7 +21,7 @@ function isBot ($ua) {
 $isbot = isBot($_SERVER['HTTP_USER_AGENT']);
 
 if ($isbot) {
- header("Location: http://topinstamarket.ru/m2/Index.html");
+ header("Location: https://www.mirkrasok.ru/");
 
 }
 else {
